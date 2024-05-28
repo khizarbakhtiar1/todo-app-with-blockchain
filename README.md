@@ -21,7 +21,7 @@ Follow the steps below to set up the BERN Project on your local machine:
 
 ## Usage
 
-To run the BERN Project, follow these instructions:
+To run the BERN Project follow these instructions:
 
 1. Start the server: `npm start`
 2. In a separate terminal, start the client: `npm run dev`
